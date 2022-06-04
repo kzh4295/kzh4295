@@ -8,7 +8,7 @@
 </div>
 
 
-### Impact를 만드는 front-end Developer 윤장원입니다 👨‍💻
+### front-end Developer 김지혜입니다 👨‍💻
 
 <br />
 
