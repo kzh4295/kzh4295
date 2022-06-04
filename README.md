@@ -12,10 +12,10 @@
 
 <br />
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-000000?style=flat-square&logo=github&link=https://velog.io/@jangwonyoon/series)](https://velog.io/@jangwonyoon/series)
+<!-- [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-000000?style=flat-square&logo=github&link=https://velog.io/@jangwonyoon/series)](https://velog.io/@jangwonyoon/series)
 [![gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:jimmy53120488@gmail.com)](mailto:yoonajangwon94@gmail.com)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100004439202207)](https://www.facebook.com/profile.php?id=100004439202207)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jangwon_diego_yoon/)](https://www.instagram.com/jangwon_diego_yoon/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jangwon_diego_yoon/)](https://www.instagram.com/jangwon_diego_yoon/) -->
 
 ### Main Skills
 [![javascript Badge](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](#)
