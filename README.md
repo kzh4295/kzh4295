@@ -1,9 +1,9 @@
-### front-end Developer 김지혜입니다 👨‍💻
+### front-end Developer 김지혜입니다 👩🏻‍💻
 
 <br />
 
 ### Main Skills
-[![javascript Badge](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](#)
+[![javascript Badge](https://img.shields.io/badge/Javascript-F7DF1E?style=🏃🏻‍♀️🏃🏻‍♀️flat-square&logo=javascript&logoColor=black)](#)
 [![typescript Badge](https://img.shields.io/badge/Typescript-007ACC?style=flat-square&logo=typescript&logoColor=white)](#)
 [![react Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](#)
 
@@ -12,8 +12,8 @@
 
 ### Experience
 [![mysql Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](#)
-
 [![aws Badge](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](#)
+[![linux Badge](https://img.shields.io/badge/Linux-232F3E?style=flat-square&logo=linux&logoColor=white)](#)
 
 
 
