@@ -11,9 +11,10 @@
 [![styled-components Badge](https://img.shields.io/badge/StyledComponents-DB7093?style=flat-square&logo=styled-components&logoColor=white)](#)
 
 ### Experience
+[![linux Badge](https://img.shields.io/badge/Linux-232F3E?style=flat-square&logo=linux&logoColor=yellow)](#)
 [![mysql Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](#)
 [![aws Badge](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](#)
-[![linux Badge](https://img.shields.io/badge/Linux-232F3E?style=flat-square&logo=linux&logoColor=yellow)](#)
+[![docker Badge](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=Docker&logoColor=white)](#)
 
 
 
