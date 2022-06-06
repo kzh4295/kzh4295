@@ -16,6 +16,7 @@
 [![aws Badge](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](#)
 [![docker Badge](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=Docker&logoColor=white)](#)
 [![node Badge](https://img.shields.io/badge/Node-3c873a?style=flat-square&logo=Node.js&logoColor=303030)](#)
+[![python Badge](https://img.shields.io/badge/Python-306998?style=flat-square&logo=python&logoColor=FFD43B)](#)
 
 
 
