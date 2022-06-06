@@ -1,10 +1,6 @@
 ### front-end Developer 김지혜입니다 👩🏻‍💻
 
 <br />
-<div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kzh4295&layout=compact" 
-        style="height : auto; margin-left : 100px; margin-right : 10px;" />
-</dvi>
 
 ### Main Skills
 [![javascript Badge](https://img.shields.io/badge/Javascript-F7DF1E?style=🏃🏻‍♀️🏃🏻‍♀️flat-square&logo=javascript&logoColor=black)](#)
@@ -25,9 +21,10 @@
 
 
 <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=kzh4295&show_icons=true&theme=radical"
-         style="height : auto; margin-left : 10px; margin-right : 10px;"
-         />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kzh4295&layout=compact" 
+        style="height : auto; margin-left : 100px; margin-right : 10px;" />
     <br />
+    <img src="https://github-readme-stats.vercel.app/api?username=kzh4295&show_icons=true&theme=radical"
+         style="height : auto; margin-left : 10px; margin-right : 10px;" />
 </div>
     
