@@ -15,6 +15,7 @@
 [![mysql Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](#)
 [![aws Badge](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](#)
 [![docker Badge](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=Docker&logoColor=white)](#)
+[![node Badge](https://img.shields.io/badge/Node-3c873a?style=flat-square&logo=amazon-aws&logoColor=303030)](#)
 
 
 
