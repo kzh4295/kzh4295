@@ -18,12 +18,3 @@
 [![node Badge](https://img.shields.io/badge/Node-3c873a?style=flat-square&logo=Node.js&logoColor=303030)](#)
 [![python Badge](https://img.shields.io/badge/Python-306998?style=flat-square&logo=python&logoColor=FFD43B)](#)
 
-
-<div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kzh4295&layout=compact" 
-        style="height : auto; margin-left : 100px; margin-right : 10px;" />
-    <br />
-    <img src="https://github-readme-stats.vercel.app/api?username=kzh4295&show_icons=true&theme=radical"
-         style="height : auto; margin-left : 10px; margin-right : 10px;" />
-</div>
-    
