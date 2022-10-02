@@ -10,7 +10,7 @@
 
 [![sass Badge](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)](#)
 [![styled-components Badge](https://img.shields.io/badge/StyledComponents-DB7093?style=flat-square&logo=styled-components&logoColor=white)](#)
-[![green-sock Badge](https://img.shields.io/badge/GreenSock-CC6699?style=flat-square&logo=GreenSock&logoColor=#88ce02)](#)
+[![green-sock Badge](https://img.shields.io/badge/GreenSock-CC6699?style=flat-square&logo=GreenSock&logoColor=88ce02)](#)
 
 
 ### Experience
