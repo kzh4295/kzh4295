@@ -1,5 +1,13 @@
 ### front-end Developer 김지혜입니다 👩🏻‍💻
 
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/kzh4295"
+  width="600"
+  height="300"
+/>
+</a>
+
 <br />
 
 ### Main Skills
